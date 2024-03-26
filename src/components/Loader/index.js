@@ -1,5 +1,5 @@
-import React from 'react';
-import { Container, Message, Icon } from 'semantic-ui-react';
+import React from "react";
+import { Container, Message, Icon } from "semantic-ui-react";
 
 const Loader = () => {
   return (
