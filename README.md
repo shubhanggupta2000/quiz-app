@@ -2,7 +2,7 @@
 
 * It is an amazing quiz application that lets you play fully customized quiz in your browser.
 * Built with React, Semantic UI, and open-trivia database
-* Click [here](https://fazevennom-quiz-app.vercel.app/) for the deployed version.
+* Click [here](https://fazevennom-quiz-app.vercel.app/) for the live view.
 
 ## Glimpse
 
